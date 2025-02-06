@@ -6,7 +6,8 @@ It is game of finding mines.
 
 
 # Getting Started 
-- win 10
+- support system: win 10, win 11
+- can run on every machine
 ## Installing
 - download repozitory
 - go to file \MineSwapper\bin\Debug and start MineSwapper.exe
