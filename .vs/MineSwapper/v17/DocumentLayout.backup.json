@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\mineswapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|solutionrelative:mineswapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\mineswapper\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|solutionrelative:mineswapper\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\mineswapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|solutionrelative:mineswapper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|e:\\programov\u00E1n\u00ED\\cshrap\\vo\u0161\\mineswapper\\mineswapper\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|solutionrelative:mineswapper\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\mineswapper\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76019DDA-4464-4EAC-8CB5-E96AA2A46583}|MineSwapper\\MineSwapper.csproj|solutionrelative:mineswapper\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Game.cs",
+              "RelativeDocumentMoniker": "MineSwapper\\Game.cs",
+              "ToolTip": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Game.cs",
+              "RelativeToolTip": "MineSwapper\\Game.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwIIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:47:00.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Cell.cs",
+              "RelativeDocumentMoniker": "MineSwapper\\Cell.cs",
+              "ToolTip": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Cell.cs",
+              "RelativeToolTip": "MineSwapper\\Cell.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:32:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Form1.cs",
+              "RelativeDocumentMoniker": "MineSwapper\\Form1.cs",
+              "ToolTip": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Form1.cs",
+              "RelativeToolTip": "MineSwapper\\Form1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwIYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:07:22.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Form1.cs",
+              "RelativeDocumentMoniker": "MineSwapper\\Form1.cs",
+              "ToolTip": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Form1.cs [N\u00E1vrh]",
+              "RelativeToolTip": "MineSwapper\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:06:31.535Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MineSwapper\\Form1.Designer.cs",
+              "ToolTip": "E:\\Programov\u00E1n\u00ED\\Cshrap\\Vo\u0161\\MineSwapper\\MineSwapper\\Form1.Designer.cs",
+              "RelativeToolTip": "MineSwapper\\Form1.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA1wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:00:40.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
