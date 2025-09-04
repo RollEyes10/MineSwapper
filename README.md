@@ -1,5 +1,5 @@
 # 🕹️ MineSwapper  
-
+# OPRAVIT - obrázky
 Klasická hra **Minesweeper (Hledání min)** implementovaná v jazyce **C# (Windows Forms)**.  
 Hráč kliká na pole a snaží se odhalit všechny bezpečné buňky, aniž by narazil na minu.  
 
